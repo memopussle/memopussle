@@ -8,6 +8,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 - 💬 Ask me about anything, I am happy to help!
 
 <br />
+<br />
 
 **Social Media**  
 
