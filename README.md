@@ -55,4 +55,4 @@ Other        2 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=memopussle_icons=true&theme=gotham" alt="memopussle" />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=memopussle&show_icons=true&theme=radical)
