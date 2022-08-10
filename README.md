@@ -1,7 +1,7 @@
 ### Hey there!
 
 
-Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thingsin my free time :)
+Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new things in my free time :)
 
 - 🌱 I'm currently working on Nodejs, Express and REST APIs project
 - 💼 I'm open for collaboration. Send me an [email](mailto:xanhtham.cuc@gmail.com) :)
