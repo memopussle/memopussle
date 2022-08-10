@@ -27,7 +27,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 
 **Languages and tools:**  
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,js,react,git,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,git,figma)](https://skills.thijs.gg)
 
 
 <br />
