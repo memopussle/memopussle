@@ -12,7 +12,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 
 **Social Media**  
 
-<a href="https://twitter.com/XanhthamC">
+<a href="https://twitter.com/memopussle">
   <img align="left" alt="Thu Giang | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thu-giang-20b2111ba/">
