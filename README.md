@@ -1,5 +1,17 @@
-### hey there 
+### Hey there!
 
+x
+
+
+Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new things and upskill my existing skillsets in my free time.
+
+- 🌱 I'm currently working on Nodejs, Express and REST APIs.
+- 💼 I'm open for collaboration [email](mailto:xanhtham.cuc@gmail.com) :)
+- 💬 ask me about anything, I am happy to help!
+
+<br />
+**contact me**  
+<br />
 <a href="https://twitter.com/XanhthamC">
   <img align="left" alt="Thu Giang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -11,14 +23,6 @@
 </a>
 
 <br />
-<br />
-
-Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new things and upskill my existing skillsets in my free time.
-
-- 🌱 I'm currently working on Nodejs, Express and REST APIs.
-- 💼 I'm open for collaboration [email](mailto:xanhtham.cuc@gmail.com) :)
-- 💬 ask me about anything, I am happy to help!
-
 **languages and tools:**  
 
 <br />
