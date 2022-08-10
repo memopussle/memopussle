@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Thu Giang - a passionate enthusiast developer and currently studying at Developers Institute. After school work, I love to learn new things and work on personal projects.
+Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new things and upskill my existing skillsets in my free time.
 
 - 🌱 I'm currently working on Nodejs, Express and REST APIs.
 - 💼 I'm open for collaboration [email](mailto:xanhtham.cuc@gmail.com) :)
