@@ -10,7 +10,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
 </a>
 
-
+<br />
 <br />
 
 Hi, I'm Thu Giang - a passionate enthusiast developer currently studying at Developers Institute. After school work, I love to learn new things and work on personal projects.
