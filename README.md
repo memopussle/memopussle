@@ -1,7 +1,5 @@
 ### Hey there!
 
-x
-
 
 Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new things and upskill my existing skillsets in my free time.
 
@@ -10,7 +8,9 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 - 💬 ask me about anything, I am happy to help!
 
 <br />
+
 **contact me**  
+
 <br />
 <a href="https://twitter.com/XanhthamC">
   <img align="left" alt="Thu Giang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -23,6 +23,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 </a>
 
 <br />
+
 **languages and tools:**  
 
 <br />
