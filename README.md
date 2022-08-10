@@ -12,13 +12,13 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 **Social Media**  
 
 <a href="https://twitter.com/XanhthamC">
-  <img align="left" alt="Thu Giang | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Thu Giang | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thu-giang-20b2111ba/">
-  <img align="left" alt="Thu Giang's Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Thu Giang's Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/memopussle">
-  <img align="left" alt="Thu Giang's github" width="30px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
+  <img align="left" alt="Thu Giang's github" width="40px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
 </a>
 
 <br />
