@@ -9,7 +9,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 
 <br />
 
-**Contact me**  
+**Social Media**  
 
 <a href="https://twitter.com/XanhthamC">
   <img align="left" alt="Thu Giang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -33,7 +33,8 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
 
-📈 my github stats
+📈 My github stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=memopussle&show_icons=true&theme=dark)
