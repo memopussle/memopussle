@@ -28,7 +28,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 
 **Languages and tools:**  
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,git,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,git,figma,mongodb,docker,nodejs)](https://skills.thijs.gg)
 
 
 <br />
@@ -40,4 +40,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 <!--Top languages-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memopussle&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--current streaks--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=memopussle&theme=dark)](https://git.io/streak-stats)
 
