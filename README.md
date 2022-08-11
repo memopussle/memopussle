@@ -41,4 +41,4 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memopussle)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Waka time-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=memopussle)](https://github.com/anuraghazra/github-readme-stats)
+[![Thu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=memopussle)](https://github.com/anuraghazra/github-readme-stats)
