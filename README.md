@@ -35,7 +35,7 @@ Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new thi
 
 📈 My github stats
 
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=memopussle&show_icons=true&theme=dark)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=memopussle&show_icons=true&theme=dark)
 
 
 <!--Top languages-->
