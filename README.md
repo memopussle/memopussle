@@ -1,14 +1,4 @@
-### Hey there!
-
-
-Hi, I'm Thu Giang - an enthusiast developer and learner. I love to learn new things in my free time :)
-
-- 🌱 I'm currently studying AWS CDK and TypeScript
-- 💼 I'm open for collaboration. Send me an [email](mailto:xanhtham.cuc@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help!
-
-<br />
-<br />
+### Hey, I'm Thu Giang!
 
 **Social Media**  
 
