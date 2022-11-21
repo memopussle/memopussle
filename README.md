@@ -1,4 +1,4 @@
-### Hey, I'm Thu Giang!
+
 
 **Social Media**  
 
