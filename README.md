@@ -16,12 +16,12 @@
 
 <br />
 
-**Languages and tools:**  
+<!-- **Languages and tools:**  
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,git,figma,mongodb,docker,nodejs)](https://skills.thijs.gg)
 
 
-<br />
+<br /> -->
 
 <!-- 📈 My github stats
 
